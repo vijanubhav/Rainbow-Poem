@@ -7,3 +7,6 @@ Green
 Yellow
 Orange
 Red
+
+
+These are the colors of a Rainbow.
